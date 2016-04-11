@@ -1,0 +1,2 @@
+# WBPageControlActivityIndicatorView
+Swift 编写的一款基于pagecontrol的七彩颜色变化的指示器
